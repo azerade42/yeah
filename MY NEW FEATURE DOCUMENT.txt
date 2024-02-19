@@ -1,1 +1,3 @@
-This is my new feature! I hope it's good :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:908dfc000ac09b0c38df4fb01849e9dbbef757a4c04d8dbcc5ed47c86465102b
+size 43
